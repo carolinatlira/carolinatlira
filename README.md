@@ -1,6 +1,6 @@
 # Hello, I'm Carolina Lira 👋
 
-Welcome to my GitHub! I'm a passionate **Data Science** and **Business Intelligence** enthusiast, working with **Power BI**, **SQL**, and **Python**. Currently, I'm pursuing a degree in **Information Systems** at [University Name] and will graduate in **December 2026**. I am originally from **Chile**, but I currently live in **São Paulo, Brazil**.
+Welcome to my GitHub! I'm a passionate **Data Science** and **Business Intelligence** enthusiast, working with **Power BI**, **SQL**, and **Python**. Currently, I'm pursuing a degree in **Information Systems** at Estácio and will graduate in **December 2026**. I am originally from **Chile**, but I currently live in **São Paulo, Brazil**.
 
 ## 👩‍💻 About Me
 
