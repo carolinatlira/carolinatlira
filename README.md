@@ -1,54 +1,110 @@
-# Hello, I'm Carolina Lira 👋
+# Olá, eu sou Carolina Lira 👋
 
-Welcome to my GitHub! I'm a passionate **Data Science** and **Business Intelligence** enthusiast, working with **Power BI**, **SQL**, and **Python**. Currently, I'm pursuing a degree in **Information Systems** at Estácio and will graduate in **December 2026**. I am originally from **Chile**, but I currently live in **São Paulo, Brazil**.
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações+do+Perfil&color=0e75b6&style=flat" alt="contador de visitas" />
 
-## 👩‍💻 About Me
+## 🚀 Sobre mim
 
-- 💼 I specialize in **Data Analysis**, **Business Intelligence**, and **Data Science**.
-- 🔧 My key skills include **Power BI**, **SQL**, and **Python**.
-- 🎓 I hold a previous degree in **Translation and Interpretation of English**.
-- 💡 I'm passionate about extracting insights from data to drive business decisions and make processes more efficient.
-- 🌍 I enjoy learning about different cultures and languages. My bilingual background (Spanish and Portuguese) helps me to communicate effectively in diverse environments.
+🎓 Estudante de Sistemas de Informação (8º semestre)
+📅 Previsão de conclusão: Dezembro/2026
+🌎 Tradutora de Inglês e Espanhol
+💻 Em transição para a área de Tecnologia
+🤖 Apaixonada por Inteligência Artificial e Análise de Dados
+📍 São Paulo, Brasil
 
-## 🛠 Technologies & Tools
-
-- **Power BI** – Creating interactive dashboards and visualizations.
-- **SQL** – Data manipulation, querying databases, and creating reports.
-- **Python** – Data analysis and automation using libraries like Pandas, NumPy, and Matplotlib.
-- **Machine Learning** – Exploring data science algorithms and predictive analytics.
-- **Git & GitHub** – Version control and collaboration on projects.
-
-## 📚 Current Studies
-
-I am currently finishing my **Information Systems** degree, with an expected graduation in **December 2026**. During my studies, I've gained a strong foundation in software development, data analysis, and system architecture. 
-
-## 🌱 I'm Currently Learning
-
-- **Advanced Machine Learning** techniques to improve my data analysis skills.
-- **Data Engineering** concepts to enhance my ability to manage large-scale datasets.
-- **Cloud Platforms** like AWS and Azure for BI and data analytics solutions.
-
-## 🌍 Languages
-
-- **Spanish** – Native
-- **Portuguese** – Fluent
-- **English** – Advanced
-
-## 📈 My Interests
-
-- Data Science
-- Business Intelligence
-- Data Visualization
-- Machine Learning
-- Business Analytics
-
-## 📬 Let's Connect
-
-Feel free to reach out for collaboration, questions, or just to chat about data! 😊
-
-- [Email](mailto:carolinatlira@gmail.com)
-- GitHub: [@carolinatlira](https://github.com/carolinatlira)
+Atualmente estou desenvolvendo projetos voltados para IA, automação e análise de dados, buscando unir minha experiência em idiomas e localização com tecnologia.
 
 ---
 
-Thank you for visiting my profile! 🚀
+## 🛠️ Tecnologias e Ferramentas
+
+### Linguagens
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,sql" />
+</p>
+
+### Desenvolvimento
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,git,github,vscode" />
+</p>
+
+### Cloud e IA
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure" />
+</p>
+
+### Ferramentas
+
+* Power BI
+* Excel Avançado
+* Jira
+* Trello
+* Python
+
+---
+
+## 📌 Projetos em Destaque
+
+### 📈 Simulador de Investimentos em Excel
+
+Ferramenta para projeção de investimentos em Fundos Imobiliários utilizando funções financeiras como VF e PROCV.
+
+---
+
+## 📚 Atualmente Estudando
+
+* Inteligência Artificial Generativa
+* Engenharia de Prompt
+* Agentes de IA
+* Cloud Computing
+* Suporte de TI
+
+---
+
+## 📊 Estatísticas GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Conquistas GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 📫 Contato
+
+💼 LinkedIn: www.linkedin.com/in/carolinatlira
+
+📧 E-mail: carolinatlira@gmail.com
+
+---
+
+## ✨ Curiosidades
+
+* 🎓 Formação em Tradução e Interpretação
+* 🌎 Sou chilena, fluente em Português e Espanhol
+* 📚 Interesse em IA
+* 🎮 Entusiasta de games e tecnologia
+* 🚀 Construindo projetos para acelerar minha transição de carreira
+
+---
+
+⭐ Obrigada por visitar meu perfil! Fique à vontade para explorar meus projetos e acompanhar minha evolução na área de tecnologia.
