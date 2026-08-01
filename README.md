@@ -1,6 +1,6 @@
 # Olá, eu sou Carolina Lira 👋
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações+do+Perfil&color=0e75b6&style=flat" alt="contador de visitas" />
+<img src="https://komarev.com/ghpvc/?username=carolinatlira&label=Visualizações+do+Perfil&color=0e75b6&style=flat" alt="contador de visitas" />
 
 ## 🚀 Sobre mim
 
@@ -66,9 +66,9 @@ Ferramenta para projeção de investimentos em Fundos Imobiliários utilizando f
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinatlira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinatlira&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 ---
@@ -76,7 +76,7 @@ Ferramenta para projeção de investimentos em Fundos Imobiliários utilizando f
 ## 🔥 Sequência de Contribuições
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carolinatlira&theme=tokyonight" />
 </p>
 
 ---
@@ -84,7 +84,7 @@ Ferramenta para projeção de investimentos em Fundos Imobiliários utilizando f
 ## 🏆 Conquistas GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=carolinatlira&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
