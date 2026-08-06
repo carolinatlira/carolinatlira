@@ -8,10 +8,10 @@
 📅 Previsão de conclusão: Dezembro/2026
 🌎 Tradutora de Inglês e Espanhol
 💻 Em transição para a área de Tecnologia
-🤖 Apaixonada por Inteligência Artificial e Análise de Dados
+🤖 Apaixonada por Inteligência Artificial, Serviços de Nuvem e Suporte Técnico
 📍 São Paulo, Brasil
 
-Atualmente estou desenvolvendo projetos voltados para IA, automação e análise de dados, buscando unir minha experiência em idiomas e localização com tecnologia.
+Atualmente estou desenvolvendo projetos voltados para IA, automação e suporte técnico, buscando unir minha experiência em idiomas e localização com tecnologia.
 
 ---
 
@@ -20,19 +20,19 @@ Atualmente estou desenvolvendo projetos voltados para IA, automação e análise
 ### Linguagens
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=python,sql" />
 </p>
 
 ### Desenvolvimento
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
 </p>
 
 ### Cloud e IA
 
 <p>
-  <img src="https://skillicons.dev/icons?i=azure" />
+  <img src="https://skillicons.dev/icons?i=azure,aws" />
 </p>
 
 ### Ferramentas
@@ -68,12 +68,13 @@ Ferramenta para projeção de investimentos em Fundos Imobiliários utilizando f
 <p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=carolinatlira&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=carolinatlira&show_icons=true&theme=tokyonight"
   />
-
+  </p>
+<p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinatlira&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carolinatlira&layout=compact&theme=tokyonight"
   />
 </p>
 
@@ -87,13 +88,6 @@ Ferramenta para projeção de investimentos em Fundos Imobiliários utilizando f
 
 ---
 
-## 🏆 Conquistas GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=carolinatlira&theme=tokyonight&row=1&column=6" />
-</p>
-
----
 
 ## 📫 Contato
 
@@ -107,7 +101,7 @@ Ferramenta para projeção de investimentos em Fundos Imobiliários utilizando f
 
 * 🎓 Formação em Tradução e Interpretação
 * 🌎 Sou chilena, fluente em Português e Espanhol
-* 📚 Interesse em IA
+* 📚 Interesse em IA e Suporte Técnico
 * 🎮 Entusiasta de games e tecnologia
 * 🚀 Construindo projetos para acelerar minha transição de carreira
 
