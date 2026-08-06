@@ -1,3 +1,6 @@
+<img width="1983" height="793" alt="Image 6 de ago  de 2026, 14_14_53" src="https://github.com/user-attachments/assets/38faa747-c7b5-4f1b-ac60-f78aaf35b093" />
+
+
 # Olá, eu sou Carolina Lira 👋
 
 <img src="https://komarev.com/ghpvc/?username=carolinatlira&label=Visualizações+do+Perfil&color=0e75b6&style=flat" alt="contador de visitas" />
