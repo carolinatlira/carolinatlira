@@ -52,6 +52,11 @@ Atualmente estou desenvolvendo projetos voltados para IA, automação e suporte 
 ### 📈 Simulador de Investimentos em Excel
 
 Ferramenta para projeção de investimentos em Fundos Imobiliários utilizando funções financeiras como VF e PROCV.
+https://github.com/carolinatlira/SimuladorDeInvestimentos
+
+### Base de Conhecimento de Suporte Técnico
+
+
 
 ---
 
@@ -62,23 +67,6 @@ Ferramenta para projeção de investimentos em Fundos Imobiliários utilizando f
 * Agentes de IA
 * Cloud Computing
 * Suporte de TI
-
----
-
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=carolinatlira&show_icons=true&theme=tokyonight"
-  />
-  </p>
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carolinatlira&layout=compact&theme=tokyonight"
-  />
-</p>
 
 ---
 
