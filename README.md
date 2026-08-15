@@ -54,7 +54,7 @@ Atualmente estou desenvolvendo projetos voltados para IA, automação e suporte 
 Ferramenta para projeção de investimentos em Fundos Imobiliários utilizando funções financeiras como VF e PROCV.
 https://github.com/carolinatlira/SimuladorDeInvestimentos
 
-### Base de Conhecimento de Suporte Técnico
+### 📚 Base de Conhecimento de Suporte Técnico
 
 Repositório de estudos sobre Suporte Técnico, Help Desk, Service Desk e Infraestrutura de TI
 
