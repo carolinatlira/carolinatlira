@@ -62,6 +62,7 @@ https://github.com/carolinatlira/suporte_tecnico
 ### 🤖 AWS Step Functions + Amazon Bedrock
 
 Projeto desenvolvido para explorar a integração entre AWS Step Functions e Amazon Bedrock, utilizando uma State Machine para orquestrar chamadas a um modelo de Inteligência Artificial Generativa.
+https://github.com/carolinatlira/AWS_step_functions_bedrock
 
 ---
 
