@@ -68,6 +68,7 @@ https://github.com/carolinatlira/AWS_step_functions_bedrock
 
 Dashboard interativo desenvolvido em Python com Streamlit, utilizando dados obtidos por meio de uma API para analisar vendas, receita, categorias de produtos, distribuição geográfica e desempenho de vendedores.
 https://dashboardvendas-carolinatlira.streamlit.app/
+https://github.com/carolinatlira/dashboard_vendas
 
 ---
 
