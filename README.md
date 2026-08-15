@@ -56,7 +56,7 @@ https://github.com/carolinatlira/SimuladorDeInvestimentos
 
 ### Base de Conhecimento de Suporte Técnico
 
-
+Repositório de estudos sobre Suporte Técnico, Help Desk, Service Desk e Infraestrutura de TI
 
 ---
 
