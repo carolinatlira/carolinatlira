@@ -59,6 +59,8 @@ https://github.com/carolinatlira/SimuladorDeInvestimentos
 Repositório de estudos sobre Suporte Técnico, Help Desk, Service Desk e Infraestrutura de TI.
 https://github.com/carolinatlira/suporte_tecnico
 
+### 🤖 AWS Step Functions + Amazon Bedrock
+
 ---
 
 ## 📚 Atualmente Estudando
