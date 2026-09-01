@@ -70,6 +70,10 @@ Dashboard interativo desenvolvido em Python com Streamlit, utilizando dados obti
 https://dashboardvendas-carolinatlira.streamlit.app/
 https://github.com/carolinatlira/dashboard_vendas
 
+### 📊 Relatório de Vendas — Power BI
+
+
+
 ---
 
 ## 📚 Atualmente Estudando
