@@ -73,6 +73,7 @@ https://github.com/carolinatlira/dashboard_vendas
 ### 📊 Relatório de Vendas — Power BI
 
 Dashboard desenvolvido em Microsoft Power BI com o objetivo de analisar dados de vendas e apresentar os principais indicadores de desempenho de forma visual e interativa.
+<iframe title="RelatorioVendas" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOGQ1ZWFiNDItNGVhMi00Y2FjLThhODktOTY0ZTE0Mjk3OTUyIiwidCI6ImEwMjMwNjY1LTYzZjAtNGU0Yi1iZGMwLTBiMTNjZDFhMTQxNCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 ---
 
